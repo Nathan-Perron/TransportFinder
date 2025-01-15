@@ -1,4 +1,4 @@
-# TransportFinder
+# **TransportFinder**
 
 ### Contexte
 
@@ -9,11 +9,6 @@ TransportFinder est un projet étudiant réalisé durant notre 3ème année de L
 TransportFinder est une application web et mobile visant à rechercher les différents moyens de transport d'une ville (bus, tram, ...) ou à rechercher un itinénaire entre deux villes (voiture, train, ...).
 L'utilisateur peut aussi avoir un comparatif des prix du trajet en fonction du transport et du temps du trajet.
 
-
-
-``
-
-``
 
 ## **Auteurs**
 - Étudiant 1 : PERRON Nathan : Nathan.Perron.Etu@univ-lemans.fr
