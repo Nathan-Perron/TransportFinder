@@ -11,11 +11,12 @@ L'utilisateur peut aussi avoir un comparatif des prix du trajet en fonction du t
 
 
 ## **Auteurs**
-- Étudiant 1 : PERRON Nathan : Nathan.Perron.Etu@univ-lemans.fr
-- Étudiant 2 : BOSSARD Guilian : Guilian.Bossard.Etu@univ-lemans.fr
-- Étudiant 3 : PROUDY Vincent : Vincent.Proudy.Etu@univ-lemans.fr
-- Étudiant 4 : POIRIER Victor : Victor.Poirier.Etu@univ-lemans.fr
-- Encadrant : RENAULT Valérie
+- Étudiant 1 : PERRON Nathan / Nathan.Perron.Etu@univ-lemans.fr
+- Étudiant 2 : BOSSARD Guilian / Guilian.Bossard.Etu@univ-lemans.fr
+- Étudiant 3 : PROUDY Vincent / Vincent.Proudy.Etu@univ-lemans.fr
+- Étudiant 4 : POIRIER Victor / Victor.Poirier.Etu@univ-lemans.fr
+
+- Encadrant : RENAULT Valérie / Valerie.Renault@univ-lemans.fr
 
 ## **Lien GitHub**
 Lien : https://github.com/Nathan-Perron/TransportFinder
