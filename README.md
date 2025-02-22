@@ -20,3 +20,7 @@ L'utilisateur peut aussi avoir un comparatif des prix du trajet en fonction du t
 
 ## **Lien GitHub**
 Lien : https://github.com/Nathan-Perron/TransportFinder
+
+## **Commandes**
+Commande pour lancer l'appli Angular:
+`ng serve --port 8080 --host 0.0.0.0 --public-host $HOSTNAME`
